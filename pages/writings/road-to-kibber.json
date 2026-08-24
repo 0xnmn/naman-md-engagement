@@ -16,7 +16,20 @@
         "actors": [],
         "count": 2
       },
-      "replies": []
+      "replies": [
+        {
+          "actor": "inNGV2T6IfbL67qHttW_zc0eV6YW6S0aGsf-j2MA7rA",
+          "id": "8ad8436f-d552-402f-b1db-be162ac6ac96",
+          "name": "Naman",
+          "text": "Thanks!",
+          "createdAt": "2026-08-24T13:22:02.952Z",
+          "likes": {
+            "actors": [],
+            "count": 0
+          },
+          "replies": []
+        }
+      ]
     }
   ]
 }
