@@ -1,8 +1,10 @@
 {
-  "version": 2,
   "path": "/writings/road-to-kibber",
   "pageLikes": {
-    "count": 4
+    "actors": [
+      "q1HSUukjYVut9StCxw6iODVUdYvR9ZikVPmqj-7mdBY"
+    ],
+    "count": 5
   },
   "comments": [
     {
@@ -11,6 +13,7 @@
       "text": "Awesome! Captivating pictures and journaling! ⭐",
       "createdAt": "2026-08-18T10:29:40.030Z",
       "likes": {
+        "actors": [],
         "count": 2
       },
       "replies": []
