@@ -1,10 +1,14 @@
 {
   "path": "/now/2026-08-26",
   "pageLikes": {
-    "actors": [
-      "uDbLs6ZJV2fO1bLv5_jWZF2B_8OUOy5tE0ZtZR-N-UU"
-    ],
-    "count": 1
+    "count": 1,
+    "entries": [
+      {
+        "actor": "uDbLs6ZJV2fO1bLv5_jWZF2B_8OUOy5tE0ZtZR-N-UU",
+        "id": "legacy:pageLikes:actor:0",
+        "createdAt": "2026-08-29T00:00:00.000Z"
+      }
+    ]
   },
   "comments": [
     {
@@ -14,8 +18,14 @@
       "text": "That’s so interesting",
       "createdAt": "2026-08-27T07:38:17.776Z",
       "likes": {
-        "actors": [],
-        "count": 0
+        "entries": [
+          {
+            "actor": "SJC5DEO1dc0rnpqKoJfNC52CBpMvWhOLUm2U_HSSYUk",
+            "id": "216aef7e-5014-4cde-afc9-07697bf1ecf9",
+            "createdAt": "2026-08-29T20:46:56.592Z"
+          }
+        ],
+        "count": 1
       },
       "replies": []
     }
