@@ -3,14 +3,27 @@
   "canonicalSrc": "/pixel/dae3b58b-71d3-4df0-b58a-059ad01edd9b",
   "aliases": [],
   "likes": {
+    "count": 1,
     "entries": [
       {
-        "actor": "vMLh0as2_I3by7difjXwJAEKcQ6mJ5vny2p16vrAVCg",
         "id": "42753022-bfd2-4dc5-a3b6-5a11e04197a7",
-        "createdAt": "2026-09-03T18:52:44.496Z"
+        "createdAt": "2026-09-03T18:52:44.496Z",
+        "actor": "vMLh0as2_I3by7difjXwJAEKcQ6mJ5vny2p16vrAVCg"
       }
-    ],
-    "count": 1
+    ]
   },
-  "comments": []
+  "comments": [
+    {
+      "actor": "vMLh0as2_I3by7difjXwJAEKcQ6mJ5vny2p16vrAVCg",
+      "id": "c4ccd105-4655-4bd7-a66b-3a8b0f0ac801",
+      "name": "Naman",
+      "text": "Feels like the sleeping buddha",
+      "createdAt": "2026-09-03T18:53:12.268Z",
+      "likes": {
+        "count": 0,
+        "entries": []
+      },
+      "replies": []
+    }
+  ]
 }
