@@ -4,23 +4,5 @@
     "count": 0,
     "entries": []
   },
-  "comments": [],
-  "annotations": [
-    {
-      "id": "e2112304-0f2b-4df5-9ee0-37cc85e39c20",
-      "exact": "ou how fast the coffee is moving and in which direction. Some coffee circles the spoon, some moves downward, and some barely moves. The Navier-Stokes equations describe how that entire pattern changes over time. They are essentially Newton’s “",
-      "prefix": "h attention. Tiny speedometers in your cup Imagine putting a tiny speedometer everywhere in your cup. At every point, it tells y",
-      "suffix": "force causes acceleration,” applied to a fluid: Momentum: Moving coffee keeps moving and carries motion into other places. Press",
-      "likes": {
-        "entries": [
-          {
-            "actor": "vMLh0as2_I3by7difjXwJAEKcQ6mJ5vny2p16vrAVCg",
-            "id": "b029abba-22f2-4786-8f38-f1f4fd0232d3",
-            "createdAt": "2026-09-10T10:40:00.280Z"
-          }
-        ],
-        "count": 1
-      }
-    }
-  ]
+  "comments": []
 }
