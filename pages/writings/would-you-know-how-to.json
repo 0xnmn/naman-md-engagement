@@ -3,12 +3,17 @@
   "pageLikes": {
     "entries": [
       {
-        "actor": "pnIAqMG_uDvBvwwcVcyhT25wa8ofcECGxhp99YSKh0I",
         "id": "fbcd9ef7-3ae5-42cb-9a5e-b22d68e2df71",
-        "createdAt": "2026-09-11T07:05:18.241Z"
+        "createdAt": "2026-09-11T07:05:18.241Z",
+        "actor": "pnIAqMG_uDvBvwwcVcyhT25wa8ofcECGxhp99YSKh0I"
+      },
+      {
+        "actor": "FZxPNEyjZ1mstfulYGpTRgmYA9pNnNnzD09IOYy7gqA",
+        "id": "87199117-8bc3-445f-a2d7-0482ea8f06a9",
+        "createdAt": "2026-09-11T16:16:08.536Z"
       }
     ],
-    "count": 1
+    "count": 2
   },
   "comments": []
 }
